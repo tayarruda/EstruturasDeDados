@@ -5,9 +5,11 @@ CONFIG -= qt
 
 SOURCES += \
     testecandidato.cpp \
-    nocandidato.cpp
+    nocandidato.cpp \
+    listacandidatos.cpp
 
 HEADERS += \
     candidato.h \
     testecandidato.h \
-    nocandidato.h
+    nocandidato.h \
+    listacandidatos.h
